@@ -42,8 +42,7 @@ with st.sidebar:
     st.divider()
     st.caption(
         "**About**\n\n"
-        "Python + Streamlit + LLM API로 구축한 IT 헬프데스크 RPA 데모.\n"
-        "AUMOVIO STAR IT Internship 포트폴리오용."
+        "IT 헬프데스크 RPA 데모."
     )
 
 # ============ 탭 ============
